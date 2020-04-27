@@ -8,7 +8,7 @@ server:
 spring:
   profiles: dev
   application:
-    name: configeureka3001
+    name: configoper4001
 eureka:
   instance:
     hostname: eureka3001 #冒号后面必须要有空格
@@ -23,7 +23,7 @@ server:
 spring:
   profiles: test
   application:
-    name: configeureka3001
+    name: configoper4001
 eureka:
   instance:
     hostname: eureka3001 #冒号后面必须要有空格
