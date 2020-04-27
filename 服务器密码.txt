@@ -1,0 +1,3 @@
+金鹰汇：47.97.4.212:22    root YUNzhifu20178888
+见证宝：118.31.68.55：22  root  1qaz@WSX3edc
+22测试服务器：m.bank-pay.com:55555  root  123456
