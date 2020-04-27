@@ -1,0 +1,15 @@
+﻿spring:
+  profiles:
+    active:
+    - dev
+---
+spring:
+  profiles: dev
+  application:
+    name: configoper4001
+
+---
+spring:
+  profiles: test
+  application:
+    name: configoper4001
